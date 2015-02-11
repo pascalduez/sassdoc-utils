@@ -1,0 +1,45 @@
+{
+  "name": "sassdoc-utils",
+  "description": "SassDoc theming utilities",
+  "version": "0.1.0",
+  "keywords": [
+    "sassdoc"
+  ],
+  "author": {
+    "name": "Pascal Duez",
+    "url": "https://github.com/pascalduez"
+  },
+  "homepage": "https://github.com/pascalduez/sassdoc-utils",
+  "bugs": "https://github.com/pascalduez/sassdoc-utils/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pascalduez/sassdoc-utils.git"
+  },
+  "license": {
+    "type": "unlicence",
+    "url": "http://unlicense.org"
+  },
+  "files": [
+    "dist",
+    "index.js",
+    "README.md",
+    "UNLICENSE"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.7",
+    "lazypipe": "^0.2.2",
+    "object-assign": "^2.0.0",
+    "sassdoc": "^2.0.5",
+    "through2": "^0.6.3",
+    "vinyl": "^0.4.6",
+    "vinyl-fs": "^0.3.13"
+  },
+  "devDependencies": {
+    "6to5": "^3.5.3",
+    "eslint": "^0.14.0",
+    "trash": "^1.4.0"
+  }
+}
