@@ -10,7 +10,7 @@
 
 ## Licence
 
-sassdoc-theme-docco is [unlicensed](http://unlicense.org/).
+sassdoc-utils is [unlicensed](http://unlicense.org/).
 
 
 [SassDoc]: http://sassdoc/com/
