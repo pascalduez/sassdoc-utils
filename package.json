@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git://github.com/pascalduez/sassdoc-utils.git"
   },
-  "license": "Unlicence",
+  "license": "Unlicense",
   "files": [
     "dist",
     "index.js",
